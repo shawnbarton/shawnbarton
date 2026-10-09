@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I make what I need - some things by hand, others are unashamedly vibe-coded.
+I make what I need - some things by hand, others by unashamedly vibe-coding.
 
 <!--
 **shawnbarton/shawnbarton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
